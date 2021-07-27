@@ -1,2 +1,2 @@
 # .github
-Github options for @ControlDeAgua.
+Github options for the organization [`@ControlDeAgua`](http://github.com/ControlDeAgua).
